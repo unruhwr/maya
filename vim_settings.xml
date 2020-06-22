@@ -4,12 +4,78 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1584209506073">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1582688943323">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/tutorial/demo/admin.py" timestamp="1582337933517">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/tutorial/first/settings.py" timestamp="1582337272843">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+      </file>
+      <file name="/fragment.py" timestamp="1582688957099">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/unruhwr/hotbox/models.py" timestamp="1586834090326">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1586834596213">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/tutorial/demo/models.py" timestamp="1582690316573">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text># Create your mod</text>
+      </register>
+      <register name="-" type="4">
+        <text># Create your mod</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
