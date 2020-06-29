@@ -44,11 +44,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1593055193458">
-        <mark key="[" line="84" column="7" />
-        <mark key="]" line="40" column="29" />
+      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1593391542169">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="34" />
         <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="29" />
+        <mark key="." line="84" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/tutorial/demo/models.py" timestamp="1582690316573">
         <mark key="[" line="5" column="43" />
@@ -64,10 +64,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text># Create your mod</text>
+        <text>unruhwr</text>
       </register>
       <register name="-" type="4">
-        <text># Create your mod</text>
+        <text>unruhwr</text>
       </register>
     </registers>
   </component>
