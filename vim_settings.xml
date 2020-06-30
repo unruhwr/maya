@@ -44,10 +44,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1593557291083">
-        <mark key="'" line="86" column="3" />
-        <mark key="[" line="82" column="23" />
+      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1593558243693">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="80" column="0" />
         <mark key="^" line="40" column="29" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/tutorial/demo/models.py" timestamp="1582690316573">
         <mark key="[" line="5" column="43" />
@@ -61,11 +62,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMucG9zdGdyZXNxbCcsCiAgICAnTkFNRSc6ICdtYXlhREInLAogICAgJ1VTRVInOiAncG9zdGdyZXMnLAogICAgJ1BBU1NXT1JEJzogJ215cGFzc3dvcmQnLAogICAgJ0hPU1QnOiAnMTI3LjAuMC4xJywKICAgICdQT1JUJzogJzU0MzInCn0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMucG9zdGdyZXNxbCcsCiAgICAnTkFNRSc6ICdtYXlhREInLAogICAgJ1VTRVInOiAncG9zdGdyZXMnLAogICAgJ1BBU1NXT1JEJzogJ215cGFzc3dvcmQnLAogICAgJ0hPU1QnOiAnMTI3LjAuMC4xJywKICAgICdQT1JUJzogJzU0MzInCn0K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
