@@ -44,11 +44,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1593556352120">
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="84" column="34" />
+      <file name="$USER_HOME$/Desktop/unruhwr/maya/settings.py" timestamp="1593557291083">
+        <mark key="'" line="86" column="3" />
+        <mark key="[" line="82" column="23" />
         <mark key="^" line="40" column="29" />
-        <mark key="." line="84" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/tutorial/demo/models.py" timestamp="1582690316573">
         <mark key="[" line="5" column="43" />
@@ -56,7 +55,9 @@
         <mark key="." line="5" column="43" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="88" column="3" filename="$USER_HOME$/Desktop/unruhwr/maya/settings.py" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
@@ -64,10 +65,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>unruhwr</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>unruhwr</text>
+        <text>}</text>
       </register>
     </registers>
   </component>
